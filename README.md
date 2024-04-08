@@ -8,7 +8,7 @@ Motive the people to learn code in Java language.
 
 You can wacth a demo of my software on the link below.
 
-[Guess Number Game](https://www.youtube.com/watch?v=Ugouaf5EZQw)
+[Guess Number Game](https://www.youtube.com/watch?v=Ti_cFDlKEwY)
 
 # Development Environment
 
